@@ -10,7 +10,7 @@ Steps to build & test the project
 
 `mvn package`
 
-3. Run below command from the a console at the project parent directory.
+3. Run below command in a console at the project parent directory.
 
 `java -jar commandemulator-assignment\target\Mim.jar`
 
