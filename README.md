@@ -10,6 +10,12 @@ Steps to build & test the project
 
 `mvn package`
 
-3. Run below command from the a console at the project parent directory
+3. Run below command from the a console at the project parent directory.
 
-`java -jar commandemulator-assignment\target\cisco-mim-assignment-0.1-SNAPSHOT-jar-with-dependencies.jar`
+`java -jar commandemulator-assignment\target\Mim.jar`
+
+4. Type Commands as shown below. Press Ctr+C ot Type `exit` to terminate the program.
+
+<p align="left">
+  <a href="https://github.com/gunamata/CommandEmulator/blob/master/sample.PNG" target="blank"><img src="https://github.com/gunamata/CommandEmulator/blob/master/sample.PNG" /></a>
+</p>
