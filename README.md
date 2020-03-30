@@ -6,8 +6,9 @@ Steps to build & test the project
 
 `git clone https://github.com/gunamata/CommandEmulator.git`
 
-2. Package the project using maven
+2. Install/Package the project using belwo maven commands.
 
+`mvn clean install`
 `mvn package`
 
 3. Run below command in a console at the project parent directory.
@@ -19,3 +20,5 @@ Steps to build & test the project
 <p align="left">
   <a href="https://github.com/gunamata/CommandEmulator/blob/master/sample.PNG" target="blank"><img src="https://github.com/gunamata/CommandEmulator/blob/master/sample.PNG" /></a>
 </p>
+
+5. JUnit file at \commandemulator-assignment\src\test\java\org\commandemulator\example\
