@@ -1,0 +1,1 @@
+rsync -vr -e "ssh -p <port>" target/apidocs/* <user>@tools4j.org:/www/commandemulator.org/javadoc/<version>
