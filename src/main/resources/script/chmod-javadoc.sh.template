@@ -1,1 +1,0 @@
-ssh -p <port> <user>@commandemulator.org "(cd /www/commandemulator.org/www/htdocs/javadoc ; find . -exec chmod a+r {} \; ; find . -type d -exec chmod a+x {} \; )"
